@@ -1,0 +1,67 @@
+from mean_sightings import get_sightings
+filename = 'sightings_tab_sm.csv'
+def test_water_is_correct():
+	watrec,watmean = get_sightings(file,'Water')
+	assert 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
